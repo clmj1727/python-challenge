@@ -1,7 +1,7 @@
 import csv
 
     #set path for file
-csvpath = "python-challenge/PyBank/Resources/budget_data.csv"
+csvpath = "PyBank/Resources/budget_data.csv"
     
     #key variables:
 month_count = 0

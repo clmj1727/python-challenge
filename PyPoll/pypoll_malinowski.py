@@ -1,7 +1,7 @@
 import csv
 
     #set path for file
-csvpath = "python-challenge/PyPoll/Resources/election_data.csv"
+csvpath = "PyPoll/Resources/election_data.csv"
      
     #open CSV using UTF-8 encoding:
 with open(csvpath, encoding='UTF-8') as csvfile:
